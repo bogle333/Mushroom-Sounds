@@ -8,7 +8,6 @@
   "ignore": ["bumper_end.wav",
   "confirmation_negative.wav",
   "confirmation_positive.wav",
-  "deck_ui_achievement_toast.wav",
   "deck_ui_bumper_end_02.wav",
   "deck_ui_default_activation.wav",
   "deck_ui_hide_modal.wav",
